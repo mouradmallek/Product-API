@@ -2,22 +2,22 @@
 
 A Product API multi-auth using Node(typeScript) typeorm, Mysql 
 
-functionalities :
+**Functionalities :
 
-Login/Register
+-> Login/Register
 
-Update Profile Info / Update Password
+-> Update Profile Info / Update Password
 
-CRUD For Roles
+-> CRUD For Roles
  
-CRUD For Products
+-> CRUD For Products
 
-CRUD functionalities for any user ( admin-only )
+-> CRUD functionalities for any user ( admin-only )
 
-Get All Permission/Get all Orders
+-> Get All Permission/Get all Orders
 
-the seed for the products, roles, and permissions
+-> The seed for the products, roles, and permissions
 
-Pagination For Users / Products / Orders
+-> Pagination for Users / Products / Orders
 
-Convert The Order To a CSV file
+-> Convert The Order To a CSV file
