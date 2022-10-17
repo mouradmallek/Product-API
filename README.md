@@ -2,7 +2,7 @@
 
 A Product API multi-auth using Node(typeScript) typeorm, Mysql 
 
-**Functionalities :
+** Functionalities : **
 
 -> Login/Register
 
